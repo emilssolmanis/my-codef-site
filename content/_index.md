@@ -1,7 +1,7 @@
 ---
 title: "main page"
 date: 2021-07-06T10:34:38+01:00
-draft: true
+draft: false
 ---
 
 my first paragraph
